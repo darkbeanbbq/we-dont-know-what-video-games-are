@@ -42,7 +42,7 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 
 (*) = free to play
 
-**[Passage](https://hcsoftware.sourceforge.net/passage/)*** ([browser version](http://passage.toolness.org/)*) by [Jason Rohrer](https://hcsoftware.sourceforge.net/jason-rohrer/)
+**[Passage](https://hcsoftware.sourceforge.net/passage/)** * ([browser version](http://passage.toolness.org/) *) by [Jason Rohrer](https://hcsoftware.sourceforge.net/jason-rohrer/)
 
 **[Proteus](https://twistedtree.itch.io/proteus)** by [Ed Key](https://twistedtreegames.com/) and [David Kanaga](https://davidkanaga.com/)
 
@@ -50,15 +50,15 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 
 **[You Must Hold Onto Your Mother's Hand](https://www.youtube.com/watch?v=c3ScwYzUPl0)** and **[Panoramical](https://finji.itch.io/panoramical)** by [Fernando Ramallo](https://byfernando.com)
 
-**[Vesper 5](https://mightyvision.blogspot.com/2012/08/vesper5.html)*** by [Michael Brough](http://mightyvision.blogspot.com/)
+**[Vesper 5](https://mightyvision.blogspot.com/2012/08/vesper5.html)** * by [Michael Brough](http://mightyvision.blogspot.com/)
 
 **[Fingle](https://www.youtube.com/watch?v=ff0fku1r-gU)**, **[Friendstrap](https://www.youtube.com/watch?v=6JfH_xgsfM8)**, **[Bounden](https://www.youtube.com/watch?v=Gete61IxkPo)**, **[Secret Shuffle](https://secretshuffle.com/)** and **[Hidden Folks](https://hiddenfolks.com/)** by [Adriaan De Jongh](https://adriaan.games/)
 
-**[Dys4ia](https://w.itch.io/dys4ia)*** ([browser version](https://freegames.org/dys4ia/)*) by [Anna Anthropy](http://triple-a-games.biz/) 
+**[Dys4ia](https://w.itch.io/dys4ia)** * ([browser version](https://freegames.org/dys4ia/)*) by [Anna Anthropy](http://triple-a-games.biz/) 
 
-**[Orgasm Simulator](https://www.molleindustria.org/en/orgasm-simulator/)***, **[The McDonald's Videogame](https://www.molleindustria.org/mcdonalds/)***, **[Phone Story](https://www.phonestory.org/)***, **[Every day the same dream](https://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html)***, **[To Build a Better Mousetrap](https://www.molleindustria.org/to-build-a-better-mousetrap/)*** and **[Democratic Socialism Simulator](https://www.molleindustria.org/demsocsim/)*** by [Molleindustria (Paolo Pedercini)](https://www.molleindustria.org)
+**[Orgasm Simulator](https://www.molleindustria.org/en/orgasm-simulator/)** *, **[The McDonald's Videogame](https://www.molleindustria.org/mcdonalds/)** *, **[Phone Story](https://www.phonestory.org/)** *, **[Every day the same dream](https://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html)** *, **[To Build a Better Mousetrap](https://www.molleindustria.org/to-build-a-better-mousetrap/)** * and **[Democratic Socialism Simulator](https://www.molleindustria.org/demsocsim/)** * by [Molleindustria (Paolo Pedercini)](https://www.molleindustria.org)
 
-**[Gravity Bone](https://blendogames.itch.io/gravitybone)*** and **[Thirty Flights of Loving](https://blendogames.itch.io/thirtyflightsofloving)** by [Blendo Games (Brendon Chung)](https://blendogames.com/)
+**[Gravity Bone](https://blendogames.itch.io/gravitybone)** * and **[Thirty Flights of Loving](https://blendogames.itch.io/thirtyflightsofloving)** by [Blendo Games (Brendon Chung)](https://blendogames.com/)
 
 **[Balloon paperApp](https://vimeo.com/35751220)** by [Volumique](https://volumique.com)
 
@@ -76,7 +76,7 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 **[Bientôt l'Été](https://tale-of-tales.com/bientotlete)**, **[Luxuria Superbia](https://luxuria-superbia.com/)** and **[Sunset](https://taleoftales.itch.io/sunset)** by [Tale of Tales](https://www.tale-of-tales.com) (Auriea Harvey and Michaël Samyn)
 
 
-**[and i made sure to hold your head sideways](https://q_dork.itch.io/and-i-made-sure-to-hold-your-head-sideways)*** and **[Consume Me](https://q_dork.itch.io/consume-me)** by [q_dork (jenny jiao hsia)](https://qdork.com/) and [bad_tetris (Ap Thomson)](http://apthomson.com/)
+**[and i made sure to hold your head sideways](https://q_dork.itch.io/and-i-made-sure-to-hold-your-head-sideways)** * and **[Consume Me](https://q_dork.itch.io/consume-me)** by [q_dork (jenny jiao hsia)](https://qdork.com/) and [bad_tetris (Ap Thomson)](http://apthomson.com/)
 
 **[Adsono](https://mechbird.fr/adsono.html)** by [Tatiana Vilela Dos Santos](https://tatianavileladossantos.com/) ([MechBird](https://mechbird.fr/))
 
@@ -85,7 +85,7 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 ---
 
 
-**[Will the man get frog](https://marechalbanane.itch.io/will-the-man-get-frog)*** by [Marcel Banane](https://marechalbanane.games/)
+**[Will the man get frog](https://marechalbanane.itch.io/will-the-man-get-frog)** * by [Marcel Banane](https://marechalbanane.games/)
 
 Passpartout : The Starving Artist
 
@@ -94,14 +94,14 @@ Passpartout : The Starving Artist
 **[Eliss](http://www.little--eyes.com/eliss)** and **[Faraway](http://www.playfaraway.com/)** by [Little Eyes (Steph Thirion)](http://www.little--eyes.com)
 
 
-**[Dwarf Fortress](https://www.bay12games.com/dwarves/)*** by [Bay 12 Games (Tarn Adams and Zach Adams)](https://www.bay12games.com/)
+**[Dwarf Fortress](https://www.bay12games.com/dwarves/)** * by [Bay 12 Games (Tarn Adams and Zach Adams)](https://www.bay12games.com/)
 
 **[Minecraft](https://fr.wikipedia.org/wiki/Minecraft#D%C3%A9veloppement)** by Markus Persson and Mojang
 
 **[Disunion (Guillotine Simulator)](https://www.youtube.com/watch?v=N8zkbl6mKXE)** de [André Berlemont](https://andreberlemont.com/), Erkki Turmmal and [Morten Brunbjerg](https://www.mortenbrunbjerg.dk/)
 
 
-**[Realistic Kissing Simulator](https://jimmylands.com/experiments/kissing/)*** by ...
+**[Realistic Kissing Simulator](https://jimmylands.com/experiments/kissing/)** * by [James Andrews](https://jimmylands.com/) and [Loren Schmidt](https://lorenschmidt.itch.io/)
 
 
 
@@ -110,14 +110,14 @@ Passpartout : The Starving Artist
 **[Hohokum](https://store.steampowered.com/app/1210550/Hohokum/)** by Ricky Haggett and Richard Hogg
 
 
-**[QWOP](https://www.foddy.net/Athletics.html)*** by Bennett Foddy
+**[QWOP](https://www.foddy.net/Athletics.html)** * by [Bennett Foddy](https://en.wikipedia.org/wiki/Bennett_Foddy)
 
 **[Flower](https://thatgamecompany.com/flower/)** and **[Journey](https://thatgamecompany.com/journey/)** by [thatgamescompany](https://thatgamecompany.com/)
 
 **[Gone Home](https://gonehome.com/)** by [Fullbright](https://fullbrig.ht/)
 
 
-**[Chasing Birds](https://davidczar.itch.io/chasing-birds)*** by [David Czarnowski](https://www.davidczar.com/)
+**[Chasing Birds](https://davidczar.itch.io/chasing-birds)** * by [David Czarnowski](https://www.davidczar.com/)
 
 
 **[Pilgrims](https://amanita-design.net/games/pilgrims.html)** by [Amanita Design](https://amanita-design.net/)
@@ -131,16 +131,16 @@ Passpartout : The Starving Artist
 
 **[UMURANGI Generation](https://www.umurangigeneration.com/)** by Origame Digital
 
-**[Museum of Parallel Art](https://neverpants.itch.io/museum-of-parallel-art)*** by Neverpants ([DOM2D (Dominique Ferland)](https://dom2d.com/), [technobeanie (Pierre-Luc Poirier)](https://technobeanie.com/) and SeventySevian (Ian Girard)
+**[Museum of Parallel Art](https://neverpants.itch.io/museum-of-parallel-art)** * by Neverpants ([DOM2D (Dominique Ferland)](https://dom2d.com/), [technobeanie (Pierre-Luc Poirier)](https://technobeanie.com/) and SeventySevian (Ian Girard)
 
-**[The Uncensored Library](https://www.uncensoredlibrary.com/)*** by [Reporters Without Borders](https://rsf.org), [Blocksworks](https://www.blockworks.uk/), .monks and DDB Berlin
+**[The Uncensored Library](https://www.uncensoredlibrary.com/)** * by [Reporters Without Borders](https://rsf.org), [Blocksworks](https://www.blockworks.uk/), .monks and DDB Berlin
 
 
-**[Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris)*** by [Ian MacLarty](https://ianmaclarty.com/)
+**[Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris)** * by [Ian MacLarty](https://ianmaclarty.com/)
 
 **[Gardenarium](https://apocablyssstudios.itch.io/gardenarium)** by Paloma Dawkins and Kyler Kelly
 
-**[Grant Haffner Fangame](https://malcolmmacdonald.itch.io/grant-haffner-fangame)*** by [Malcolm MacDonald](https://malcolmmacdonald.itch.io/)
+**[Grant Haffner Fangame](https://malcolmmacdonald.itch.io/grant-haffner-fangame)** * by [Malcolm MacDonald](https://malcolmmacdonald.itch.io/)
 
 **[Plug & Play](https://plugplay.ch/)** and **[Kids](https://playkids.ch/)** by [Michael Frei](https://michaelfrei.io/) and [Mario von Rickenbach](https://mariov.ch/)
 
@@ -149,20 +149,20 @@ Passpartout : The Starving Artist
 **[Pixel Fireplace](https://hammertail.itch.io/pixel-fireplace)** by [Ted Martens](https://tedmartens.com/)
 
 
-**[Memories of a Broken Dimension](https://xra.itch.io/memory-of-a-broken-dimension)*** by [xra](https://xra.dev/)
+**[Memories of a Broken Dimension](https://xra.itch.io/memory-of-a-broken-dimension)** * by [xra](https://xra.dev/)
 
 **[Manifold Garden](https://manifold.garden/)** by [William Chyr](https://williamchyr.com/)
 
 **[Braid](http://braid-game.com/)** and **[The Witness](http://the-witness.net/)** by [Jonathan Blow](http://number-none.com/blow/)
 
-**[Baby is You](https://www.hempuli.com/baba/)** ([jam build](https://hempuli.itch.io/baba-is-you)*) by [Hempuli (Arvi Teikari)](https://hempuli.com) 
+**[Baby is You](https://www.hempuli.com/baba/)** ([jam build](https://hempuli.itch.io/baba-is-you) *) by [Hempuli (Arvi Teikari)](https://hempuli.com) 
 
 **[FEZ](https://fezgame.com/)** by Polytron
 
 
 **[Curtain](https://dreamfeel.itch.io/curtain)** by [Dreamfeel](https://dreamfeel.ie/)
 
-**[Depression Quest](http://www.depressionquest.com/)*** by [Zoe Quinn](https://unburntwitch.com)
+**[Depression Quest](http://www.depressionquest.com/)** * by [Zoe Quinn](https://unburntwitch.com)
 
 **[Lieve Oma](https://vltmn.itch.io/lieve-oma)** by [Florian Veltman](https://florian.games)
 
@@ -189,11 +189,11 @@ Passpartout : The Starving Artist
 
 **[Choosatron](https://choosatron.github.io/)**
 
-**[A Slower Speed of Light](https://gamelab.mit.edu/games/a-slower-speed-of-light/)*** by [MIT Game Lab](https://gamelab.mit.edu/)
+**[A Slower Speed of Light](https://gamelab.mit.edu/games/a-slower-speed-of-light/)** * by [MIT Game Lab](https://gamelab.mit.edu/)
 
-**[Parable of the Polygons](https://ncase.me/polygons/)*** by [Vi Hart (Victoria Hart)](https://www.youtube.com/@Vihart) and [Nicky Case](https://ncase.me/)
+**[Parable of the Polygons](https://ncase.me/polygons/)** * by [Vi Hart (Victoria Hart)](https://www.youtube.com/@Vihart) and [Nicky Case](https://ncase.me/)
 
-**[WE BECOME WHAT WE BEHOLD](https://ncase.itch.io/wbwwb)*** and **[The Evolution of Trust](https://ncase.me/trust/)*** by [Nicky Case](https://ncase.me/)
+**[WE BECOME WHAT WE BEHOLD](https://ncase.itch.io/wbwwb)** * and **[The Evolution of Trust](https://ncase.me/trust/)** * by [Nicky Case](https://ncase.me/)
 
 
 
