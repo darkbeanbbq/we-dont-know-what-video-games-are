@@ -16,7 +16,9 @@ Making it was about "let me take my deepest flaws and vulnerabilities and put th
 <blockquote>
 Here is what I think the worst case scenario would be : Is if the next generation of programmers grows up never being exposed to *these ideas*. The next generation of programmers grows up only being shown one way of thinking about programming. [...] They figured it all out and then they teach that to the next generation. So that second generation then grows up thinking : Oh it's all been figured out, we know what programming is. We know what we are doing. They grow up with dogma. And once you grow up with dogma, it's really hard to break out of it.
 
+
 All *these ideas* and so many other good ideas came about in this particular time period, the 60s and early 70s. Why did it all happen then ? It's because it was late enough that technology had kind of got to the point where you actually could do things with computers but it was still early enough that nobody knew what programming was. Nobody knew what programming was supposed to be. And they know they didn't know so they just like tried everything ! Their minds were totally free and they just said maybe we could program like this, maybe we could program like that. They just tried anything they could think of.
+
 
 The most dangerous thought that you can have as a creative person is to think that you know what you’re doing.
 Because once you think you know what you’re doing, you stop looking around for other ways of doing things and you stop being able to see other ways of doing things, you become blind. [...]
