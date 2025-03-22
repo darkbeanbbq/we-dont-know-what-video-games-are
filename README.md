@@ -1,9 +1,9 @@
-# What can video games be ?
+# We don't know what video games are
 
 A list of independent, alternative, experimental, art or simply interesting video games to deconstruct our idea of what video games are and what video games can be. Also some quotes and links.
-A curated non-exhaustive and clearly subjective list by Alexandre Lejeune for the *Digital Bricolage* Workshop at l'ENSAAMA in 2025.
+A curated non-exhaustive and clearly subjective list by Alexandre Lejeune for the *Digital Bricolage* Workshop at l'[ENSAAMA](https://ensaama.net) in 2025.
 
-
+---
 
 >Part of it is about not trying to be professional. A lot of people come in to indie games trying to be like a bit company. What those game companies do is create highly polished things that serves as large of an audience as possible. The way that you do that is by filing off all the bumps on something. If they're a sharp corner, you make sure that's not not going to hurt anybody if they bump into it  of whatever.
 That creation of this highly glossy commercial product if the opposite of making something personal.
@@ -38,6 +38,7 @@ Homo Ludens (p.10)
 Homo Ludens (p.45)
 <br><br>
 
+## Video games
 
 (*) = free to play
 
@@ -51,33 +52,33 @@ Homo Ludens (p.45)
 
 [Vesper 5](https://mightyvision.blogspot.com/2012/08/vesper5.html)* by [Michael Brough](http://mightyvision.blogspot.com/)
 
-[Fingle](https://www.youtube.com/watch?v=ff0fku1r-gU), [Friendstrap](https://www.youtube.com/watch?v=6JfH_xgsfM8), [Bounden](https://www.youtube.com/watch?v=Gete61IxkPo), [Secret Shuffle](https://secretshuffle.com/) and [Hidden Folks](https://hiddenfolks.com/) by **[Adriaan De Jongh](https://adriaan.games/)**
+**[Fingle](https://www.youtube.com/watch?v=ff0fku1r-gU)**, **[Friendstrap](https://www.youtube.com/watch?v=6JfH_xgsfM8)**, **[Bounden](https://www.youtube.com/watch?v=Gete61IxkPo)**, **[Secret Shuffle](https://secretshuffle.com/)** and **[Hidden Folks](https://hiddenfolks.com/)** by [Adriaan De Jongh](https://adriaan.games/)
 
-[Dys4ia](https://w.itch.io/dys4ia)* by **[Anna Anthropy](http://triple-a-games.biz/) [in browser version](https://freegames.org/dys4ia/)**
+**[Dys4ia](https://w.itch.io/dys4ia)*** ([browser version](https://freegames.org/dys4ia/)*) by [Anna Anthropy](http://triple-a-games.biz/) 
 
-[Orgasm Simulator](https://www.molleindustria.org/en/orgasm-simulator/)*, [The McDonald's Videogame](https://www.molleindustria.org/mcdonalds/)*, [Phone Story](https://www.phonestory.org/)*, [Every day the same dream](https://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html)*, [To Build a Better Mousetrap](https://www.molleindustria.org/to-build-a-better-mousetrap/)* and [Democratic Socialism Simulator](https://www.molleindustria.org/demsocsim/)* by **[Molleindustria (Paolo Pedercini)](https://www.molleindustria.org)**
+**[Orgasm Simulator](https://www.molleindustria.org/en/orgasm-simulator/)***, **[The McDonald's Videogame](https://www.molleindustria.org/mcdonalds/)***, **[Phone Story](https://www.phonestory.org/)***, **[Every day the same dream](https://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html)***, **[To Build a Better Mousetrap](https://www.molleindustria.org/to-build-a-better-mousetrap/)*** and **[Democratic Socialism Simulator](https://www.molleindustria.org/demsocsim/)*** by [Molleindustria (Paolo Pedercini)](https://www.molleindustria.org)
 
-[Gravity Bone](https://blendogames.itch.io/gravitybone)* and [Thirty Flights of Loving](https://blendogames.itch.io/thirtyflightsofloving) by **[Blendo Games (Brendon Chung)](https://blendogames.com/)**
+**[Gravity Bone](https://blendogames.itch.io/gravitybone)*** and **[Thirty Flights of Loving](https://blendogames.itch.io/thirtyflightsofloving)** by [Blendo Games (Brendon Chung)](https://blendogames.com/)
 
-[Balloon paperApp](https://vimeo.com/35751220) by **[Volumique](https://volumique.com)**
-
-
-[Hurt Me Plenty](https://radiatoryang.itch.io/hurt-me-plenty)*, [Stick Shift](https://radiatoryang.itch.io/stick-shift)*, [Cobra Club](https://radiatoryang.itch.io/cobraclub)* and [Rinse and Repeat](https://radiatoryang.itch.io/rinseandrepeat)* by **[Robert Yang](https://debacle.us/)**
+**[Balloon paperApp](https://vimeo.com/35751220)** by [Volumique](https://volumique.com)
 
 
-[Dear Esther](https://www.thechineseroom.co.uk/games/dear-esther) by **[The Chinese Room](https://www.thechineseroom.co.uk/)**
-
-[The Beginner's Guide](https://thebeginnersgui.de/) by **[Davey Wreden](https://everythingunlimitedltd.com/)**
+**[Hurt Me Plenty](https://radiatoryang.itch.io/hurt-me-plenty)***, **[Stick Shift](https://radiatoryang.itch.io/stick-shift)***, **[Cobra Club](https://radiatoryang.itch.io/cobraclub)*** and **[Rinse and Repeat](https://radiatoryang.itch.io/rinseandrepeat)*** by [Robert Yang](https://debacle.us/)
 
 
-[Bientôt l'Été](https://tale-of-tales.com/bientotlete), [Luxuria Superbia](https://luxuria-superbia.com/) and [Sunset](https://taleoftales.itch.io/sunset) by **[Tale of Tales](https://www.tale-of-tales.com)** (Auriea Harvey and Michaël Samyn)
+**[Dear Esther](https://www.thechineseroom.co.uk/games/dear-esther)** by [The Chinese Room](https://www.thechineseroom.co.uk/)
+
+**[The Beginner's Guide](https://thebeginnersgui.de/)** by [Davey Wreden](https://everythingunlimitedltd.com/)
 
 
-[and i made sure to hold your head sideways](https://q_dork.itch.io/and-i-made-sure-to-hold-your-head-sideways)* and [Consume Me](https://q_dork.itch.io/consume-me) by **[q_dork (jenny jiao hsia)](https://qdork.com/)** and **[bad_tetris (Ap Thomson)](http://apthomson.com/)**
+**[Bientôt l'Été](https://tale-of-tales.com/bientotlete)**, **[Luxuria Superbia](https://luxuria-superbia.com/)** and **[Sunset](https://taleoftales.itch.io/sunset)** by [Tale of Tales](https://www.tale-of-tales.com) (Auriea Harvey and Michaël Samyn)
 
-[Adsono](https://mechbird.fr/adsono.html) by **[Tatiana Vilela Dos Santos](https://tatianavileladossantos.com/)** (**[MechBird](https://mechbird.fr/)**)
 
-[Hug Gods](https://www.shalevmoran.com/hug-gods-2014) by **[Shalev Moran](https://www.shalevmoran.com/)**
+**[and i made sure to hold your head sideways](https://q_dork.itch.io/and-i-made-sure-to-hold-your-head-sideways)*** and **[Consume Me](https://q_dork.itch.io/consume-me)** by [q_dork (jenny jiao hsia)](https://qdork.com/) and [bad_tetris (Ap Thomson)](http://apthomson.com/)
+
+**[Adsono](https://mechbird.fr/adsono.html)** by [Tatiana Vilela Dos Santos](https://tatianavileladossantos.com/) ([MechBird](https://mechbird.fr/))
+
+**[Hug Gods](https://www.shalevmoran.com/hug-gods-2014)** by [Shalev Moran](https://www.shalevmoran.com/)
 
 ---
 
@@ -119,28 +120,39 @@ Freeways
 
 
 [UMURANGI Generation](https://www.umurangigeneration.com/) by Origame Digital
-[](https://neverpants.itch.io/museum-of-parallel-art) by Neverpants ([DOM2D (Dominique Ferland)](https://dom2d.com/), [technobeanie (Pierre-Luc Poirier)](https://technobeanie.com/) and SeventySevian (Ian Girard)
+[Museum of Parallel Art](https://neverpants.itch.io/museum-of-parallel-art)* by Neverpants ([DOM2D (Dominique Ferland)](https://dom2d.com/), [technobeanie (Pierre-Luc Poirier)](https://technobeanie.com/) and SeventySevian (Ian Girard)
 
 [The Uncensored Library](https://www.uncensoredlibrary.com/)
 
 
 [Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris)* by [Ian MacLarty](https://ianmaclarty.com/)
+
 [Gardenarium](https://apocablyssstudios.itch.io/gardenarium) by Paloma Dawkins and Kyler Kelly
+
 [Grant Haffner Fangame](https://malcolmmacdonald.itch.io/grant-haffner-fangame)* by [Malcolm MacDonald](https://malcolmmacdonald.itch.io/)
+
 [Plug & Play](https://plugplay.ch/) and [Kids](https://playkids.ch/) by [Michael Frei](https://michaelfrei.io/) and [Mario von Rickenbach](https://mariov.ch/)
+
 [Mountain](https://davidoreilly.itch.io/mountain) by [David O'Reilly](https://www.davidoreilly.com/)
+
 [Pixel Fireplace](https://hammertail.itch.io/pixel-fireplace) by [Ted Martens](https://tedmartens.com/)
 
 
 [Memories of a Broken Dimension](https://xra.itch.io/memory-of-a-broken-dimension)* by [xra](https://xra.dev/)
+
 [Manifold Garden](https://manifold.garden/) by [William Chyr](https://williamchyr.com/)
+
 [Braid](http://braid-game.com/) and [The Witness](http://the-witness.net/) by [Jonathan Blow](http://number-none.com/blow/)
+
 [Baby is You](https://www.hempuli.com/baba/) by [Hempuli (Arvi Teikari)](https://hempuli.com) ([Jam build](https://hempuli.itch.io/baba-is-you)*)
+
 [FEZ](https://fezgame.com/) by Polytron
 
 
 [Curtain](https://dreamfeel.itch.io/curtain) by [Dreamfeel](https://dreamfeel.ie/)
+
 [Depression Quest](http://www.depressionquest.com/) by [Zoe Quinn](https://unburntwitch.com)
+
 [Lieve Oma](https://vltmn.itch.io/lieve-oma)* by [Florian Veltman](https://florian.games)
 
 [A Normal Lost Phone](https://anormallostphone.com/) by [Accidental Queens](https://www.accidentalqueens.com/)
@@ -151,22 +163,28 @@ https://canabalt.com/
 
 
 [The PainStation](http://www.painstation.de/) by [//////////fur////](https://www.fursr.com/)
+
 [Keyboard Mandala](https://titouanm.com/keyboardmandala/) by [Titouan Millet](https://titouanm.com/)
 
 [Flippaper](https://www.flippaper.org/) by [Chienpo (Jérémie Cortial)](http://www.jercortial.com/)
+
 [Line Wobbler](https://www.aipanic.com/projects/wobbler) by [Robin Baumgarten](https://www.aipanic.com/)
+
 [JS Joust](http://www.jsjoust.com/) by Douglas Wilson and [Die Gute Fabrik](https://gutefabrik.com/)
+
 [ROFLpillar](https://luckyframe.co.uk/works/roflpillar/) by [Lucky Frames](https://luckyframe.co.uk/)
 
 [Choosatron](https://choosatron.github.io/)
 
 [A Slower Speed of Light](https://gamelab.mit.edu/games/a-slower-speed-of-light/) by [MIT Game Lab](https://gamelab.mit.edu/)
+
 [Parable of the Polygons](https://ncase.me/polygons/) by [Vi Hart (Victoria Hart)](https://www.youtube.com/@Vihart) and [Nicky Case](https://ncase.me/)
+
 [WE BECOME WHAT WE BEHOLD](https://ncase.itch.io/wbwwb) and [The Evolution of Trust](https://ncase.me/trust/) by [Nicky Case](https://ncase.me/)
 
 []() de []()
 
-# References
+
 ## Talks et essays
 [The Future of Programming](https://vimeo.com/groups/96331/videos/71278954) by [Bret Victor](https://worrydream.com/)
 [Videogames and the Spirit of Capitalism](https://www.molleindustria.org/blog/videogames-and-the-spirit-of-capitalism/) by [Molleindustria (Paolo Pedercini)](https://paolo.molleindustria.org/)
