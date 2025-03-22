@@ -41,11 +41,11 @@ Homo Ludens (p.45)
 
 (*) = free to play
 
-[Passage](https://hcsoftware.sourceforge.net/passage/)* ([in browser version](http://passage.toolness.org/)*) by **[Jason Rohrer](https://hcsoftware.sourceforge.net/jason-rohrer/)**
+**[Passage](https://hcsoftware.sourceforge.net/passage/)*** ([browser version](http://passage.toolness.org/)*) by [Jason Rohrer](https://hcsoftware.sourceforge.net/jason-rohrer/)
 
-[Proteus](https://twistedtree.itch.io/proteus) by **[Ed Key](https://twistedtreegames.com/)** and **[David Kanaga](https://davidkanaga.com/)**
+**[Proteus](https://twistedtree.itch.io/proteus)** by [Ed Key](https://twistedtreegames.com/) and [David Kanaga](https://davidkanaga.com/)
 
-[Papers Please](https://papersplea.se/) by **[Lucas Pope](https://dukope.com/)**
+**[Papers Please](https://papersplea.se/)** by [Lucas Pope](https://dukope.com/)
 
 [You Must Hold Onto Your Mother's Hand](https://www.youtube.com/watch?v=c3ScwYzUPl0) and [Panoramical](https://finji.itch.io/panoramical) by **[Fernando Ramallo](https://byfernando.com)**
 
