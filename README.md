@@ -3,6 +3,8 @@
 A list of independent, alternative, experimental, art or simply interesting video games to deconstruct our idea of what video games are and what video games can be. Also some quotes and links.
 A curated non-exhaustive and clearly subjective list by Alexandre Lejeune for the *Digital Bricolage* Workshop at l'ENSAAMA in 2025.
 
+
+
 >Part of it is about not trying to be professional. A lot of people come in to indie games trying to be like a bit company. What those game companies do is create highly polished things that serves as large of an audience as possible. The way that you do that is by filing off all the bumps on something. If they're a sharp corner, you make sure that's not not going to hurt anybody if they bump into it  of whatever.
 That creation of this highly glossy commercial product if the opposite of making something personal.
 Things that are personal have flaws, they have vularabilites. If you don't see a vulnerability in somebody, you're probably not relating with them on a personal level. So it's the same with a game design.
@@ -10,61 +12,66 @@ Making it was about "let me take my deepest flaws and vulnerabilities and put th
 
 [Jonathan Blow](http://number-none.com/blow/) in [Indie Game The Movie](https://buy.indiegamethemovie.com/)
 
-Here is what I think the worst case scenario would be : Is if the next generation of programmers grows up never being exposed to *these ideas*. The next generation of programmers grows up only being shown one way of thinking about programming. [...] They figured it all out and then they teach that to the next generation. So that second generation then grows up thinking : Oh it's all been figured out, we know what programming is. We know what we are doing. They grow up with dogma. And once you grow up with dogma, it's really hard to break out of it.
 
+>Here is what I think the worst case scenario would be : Is if the next generation of programmers grows up never being exposed to *these ideas*. The next generation of programmers grows up only being shown one way of thinking about programming. [...] They figured it all out and then they teach that to the next generation. So that second generation then grows up thinking : Oh it's all been figured out, we know what programming is. We know what we are doing. They grow up with dogma. And once you grow up with dogma, it's really hard to break out of it.
 All *these ideas* and so many other good ideas came about in this particular time period, the 60s and early 70s. Why did it all happen then ? It's because it was late enough that technology had kind of got to the point where you actually could do things with computers but it was still early enough that nobody knew what programming was. Nobody knew what programming was supposed to be. And they know they didn't know so they just like tried everything ! Their minds were totally free and they just said maybe we could program like this, maybe we could program like that. They just tried anything they could think of.
-
 The most dangerous thought that you can have as a creative person is to think that you know what you’re doing.
 Because once you think you know what you’re doing, you stop looking around for other ways of doing things and you stop being able to see other ways of doing things, you become blind. [...]
 If you want to be open or receptive to new ways of thinking, to invent new ways of thinking. I think the first step is you have to say to yourself : I don't know what I'm doing. We as a field don't know what we're doing. We don't know what programming is, we don't know what computing is. We don't even know what a computer is.
 And once you truly understand that and once you truly believe that, then you're free. And you can think anything."
+
 [The Future of Programming](https://vimeo.com/groups/96331/videos/71278954) by [Bret Victor](https://worrydream.com/)
 
-"play is free movement within a more rigid structure" [Rules of Play](https://en.wikipedia.org/wiki/Rules_of_Play) by [Katie Salen](https://www.katiesalen.me/) and [Eric Zimmerman](https://ericzimmerman.com/)
+>"play is free movement within a more rigid structure"
+
+[Rules of Play](https://en.wikipedia.org/wiki/Rules_of_Play) by [Katie Salen](https://www.katiesalen.me/) and [Eric Zimmerman](https://ericzimmerman.com/)
 
 
-"[...] play : it creates order, *is* order. Into an imperfect world and into the confusion of life it brings a temporary, a limited perfection. Play demands order absolute and supreme. The least deviation from it "spoils the game", robs it of its character and makes it worthless. The profound affinity between play and order is perhaps the
+
+>"[...] play : it creates order, *is* order. Into an imperfect world and into the confusion of life it brings a temporary, a limited perfection. Play demands order absolute and supreme. The least deviation from it "spoils the game", robs it of its character and makes it worthless. The profound affinity between play and order is perhaps the
 reason why play [...] seems to lie to such a large extent in the field of aesthetics. Play has a tendency to be beautiful. It may be that this aesthetic factor is identical with the impulse to create orderly form, which animates play in all its aspects." Homo Ludens (p.10)
 
-"The play-concept as such is of a higher order than is seriousness. For seriousness seeks to exclude play, whereas play can very well include seriousness.” Homo Ludens (p.45)
+>"The play-concept as such is of a higher order than is seriousness. For seriousness seeks to exclude play, whereas play can very well include seriousness.” Homo Ludens (p.45)
 
 
-Play quote (Caillois movement rigid structure / Huizingua serious)
 
+(*) = free to play
 
-* = free to play
+[Passage](https://hcsoftware.sourceforge.net/passage/)* ([in browser version](http://passage.toolness.org/)*) by **[Jason Rohrer](https://hcsoftware.sourceforge.net/jason-rohrer/)**
 
-[Passage](https://hcsoftware.sourceforge.net/passage/)* by [Jason Rohrer](https://hcsoftware.sourceforge.net/jason-rohrer/) - [in browser version](http://passage.toolness.org/)*
-[Proteus](https://twistedtree.itch.io/proteus) by [Ed Key](https://twistedtreegames.com/) and [David Kanaga](https://davidkanaga.com/)
-[Papers Please](https://papersplea.se/) by [Lucas Pope](https://dukope.com/)
-[You Must Hold Onto Your Mother's Hand](https://www.youtube.com/watch?v=c3ScwYzUPl0) and [Panoramical](https://finji.itch.io/panoramical) by [Fernando Ramallo](https://byfernando.com)
+[Proteus](https://twistedtree.itch.io/proteus) by **[Ed Key](https://twistedtreegames.com/)** and **[David Kanaga](https://davidkanaga.com/)**
+
+[Papers Please](https://papersplea.se/) by **[Lucas Pope](https://dukope.com/)**
+
+[You Must Hold Onto Your Mother's Hand](https://www.youtube.com/watch?v=c3ScwYzUPl0) and [Panoramical](https://finji.itch.io/panoramical) by **[Fernando Ramallo](https://byfernando.com)**
+
 [Vesper 5](https://mightyvision.blogspot.com/2012/08/vesper5.html)* by [Michael Brough](http://mightyvision.blogspot.com/)
 
-[Fingle](https://www.youtube.com/watch?v=ff0fku1r-gU), [Friendstrap](https://www.youtube.com/watch?v=6JfH_xgsfM8), [Bounden](https://www.youtube.com/watch?v=Gete61IxkPo), [Secret Shuffle](https://secretshuffle.com/) and [Hidden Folks](https://hiddenfolks.com/) by [Adriaan De Jongh](https://adriaan.games/)
+[Fingle](https://www.youtube.com/watch?v=ff0fku1r-gU), [Friendstrap](https://www.youtube.com/watch?v=6JfH_xgsfM8), [Bounden](https://www.youtube.com/watch?v=Gete61IxkPo), [Secret Shuffle](https://secretshuffle.com/) and [Hidden Folks](https://hiddenfolks.com/) by **[Adriaan De Jongh](https://adriaan.games/)**
 
-[Dys4ia](https://w.itch.io/dys4ia)* by [Anna Anthropy](http://triple-a-games.biz/) [in browser version](https://freegames.org/dys4ia/)
+[Dys4ia](https://w.itch.io/dys4ia)* by **[Anna Anthropy](http://triple-a-games.biz/) [in browser version](https://freegames.org/dys4ia/)**
 
-[Orgasm Simulator](https://www.molleindustria.org/en/orgasm-simulator/)*, [The McDonald's Videogame](https://www.molleindustria.org/mcdonalds/)*, [Phone Story](https://www.phonestory.org/)*, [Every day the same dream](https://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html)*, [To Build a Better Mousetrap](https://www.molleindustria.org/to-build-a-better-mousetrap/)* and [Democratic Socialism Simulator](https://www.molleindustria.org/demsocsim/)* by [Molleindustria(Paolo Pedercini)](https://www.molleindustria.org)
+[Orgasm Simulator](https://www.molleindustria.org/en/orgasm-simulator/)*, [The McDonald's Videogame](https://www.molleindustria.org/mcdonalds/)*, [Phone Story](https://www.phonestory.org/)*, [Every day the same dream](https://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html)*, [To Build a Better Mousetrap](https://www.molleindustria.org/to-build-a-better-mousetrap/)* and [Democratic Socialism Simulator](https://www.molleindustria.org/demsocsim/)* by **[Molleindustria (Paolo Pedercini)](https://www.molleindustria.org)**
 
-[Gravity Bone](https://blendogames.itch.io/gravitybone)* and [Thirty Flights of Loving](https://blendogames.itch.io/thirtyflightsofloving) by [Blendo Games (Brendon Chung)](https://blendogames.com/)
+[Gravity Bone](https://blendogames.itch.io/gravitybone)* and [Thirty Flights of Loving](https://blendogames.itch.io/thirtyflightsofloving) by **[Blendo Games (Brendon Chung)](https://blendogames.com/)**
 
-[Balloon paperApp](https://vimeo.com/35751220) by [Volumique](https://volumique.com)
-
-
-[Hurt Me Plenty](https://radiatoryang.itch.io/hurt-me-plenty)*, [Stick Shift](https://radiatoryang.itch.io/stick-shift)*, [Cobra Club](https://radiatoryang.itch.io/cobraclub)* and [Rinse and Repeat](https://radiatoryang.itch.io/rinseandrepeat)* by [Robert Yang](https://debacle.us/)
+[Balloon paperApp](https://vimeo.com/35751220) by **[Volumique](https://volumique.com)**
 
 
-[Dear Esther](https://www.thechineseroom.co.uk/games/dear-esther) by [The Chinese Room](https://www.thechineseroom.co.uk/)
-[The Beginner's Guide](https://thebeginnersgui.de/) by [Davey Wreden](https://everythingunlimitedltd.com/)
+[Hurt Me Plenty](https://radiatoryang.itch.io/hurt-me-plenty)*, [Stick Shift](https://radiatoryang.itch.io/stick-shift)*, [Cobra Club](https://radiatoryang.itch.io/cobraclub)* and [Rinse and Repeat](https://radiatoryang.itch.io/rinseandrepeat)* by **[Robert Yang](https://debacle.us/)**
 
 
-[Bientôt l'Été](https://tale-of-tales.com/bientotlete), [Luxuria Superbia](https://luxuria-superbia.com/) and [Sunset](https://taleoftales.itch.io/sunset) by [Tale of Tales](https://www.tale-of-tales.com) (Auriea Harvey and Michaël Samyn)
+[Dear Esther](https://www.thechineseroom.co.uk/games/dear-esther) by **[The Chinese Room](https://www.thechineseroom.co.uk/)**
+[The Beginner's Guide](https://thebeginnersgui.de/) by **[Davey Wreden](https://everythingunlimitedltd.com/)**
 
 
-[and i made sure to hold your head sideways](https://q_dork.itch.io/and-i-made-sure-to-hold-your-head-sideways)* and [Consume Me](https://q_dork.itch.io/consume-me) by [q_dork (jenny jiao hsia)](https://qdork.com/) and [bad_tetris (Ap Thomson)](http://apthomson.com/)
+[Bientôt l'Été](https://tale-of-tales.com/bientotlete), [Luxuria Superbia](https://luxuria-superbia.com/) and [Sunset](https://taleoftales.itch.io/sunset) by **[Tale of Tales](https://www.tale-of-tales.com)** (Auriea Harvey and Michaël Samyn)
 
-[Adsono](https://mechbird.fr/adsono.html) by [Tatiana Vilela Dos Santos](https://tatianavileladossantos.com/) ([MechBird](https://mechbird.fr/))
-[Hug Gods](https://www.shalevmoran.com/hug-gods-2014) by [Shalev Moran](https://www.shalevmoran.com/)
+
+[and i made sure to hold your head sideways](https://q_dork.itch.io/and-i-made-sure-to-hold-your-head-sideways)* and [Consume Me](https://q_dork.itch.io/consume-me) by **[q_dork (jenny jiao hsia)](https://qdork.com/)** and **[bad_tetris (Ap Thomson)](http://apthomson.com/)**
+
+[Adsono](https://mechbird.fr/adsono.html) by **[Tatiana Vilela Dos Santos](https://tatianavileladossantos.com/)** (**[MechBird](https://mechbird.fr/)**)
+[Hug Gods](https://www.shalevmoran.com/hug-gods-2014) by **[Shalev Moran](https://www.shalevmoran.com/)**
 
 ---
 
