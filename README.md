@@ -11,7 +11,7 @@ Things that are personal have flaws, they have vularabilites. If you don't see a
 Making it was about "let me take my deepest flaws and vulnerabilities and put them in the game". And let's see what happens."
 
 [Jonathan Blow](http://number-none.com/blow/) in [Indie Game The Movie](https://buy.indiegamethemovie.com/)
-
+<br><br>
 
 >Here is what I think the worst case scenario would be : Is if the next generation of programmers grows up never being exposed to *these ideas*. The next generation of programmers grows up only being shown one way of thinking about programming. [...] They figured it all out and then they teach that to the next generation. So that second generation then grows up thinking : Oh it's all been figured out, we know what programming is. We know what we are doing. They grow up with dogma. And once you grow up with dogma, it's really hard to break out of it. <br><br>
 All *these ideas* and so many other good ideas came about in this particular time period, the 60s and early 70s. Why did it all happen then ? It's because it was late enough that technology had kind of got to the point where you actually could do things with computers but it was still early enough that nobody knew what programming was. Nobody knew what programming was supposed to be. And they know they didn't know so they just like tried everything ! Their minds were totally free and they just said maybe we could program like this, maybe we could program like that. They just tried anything they could think of. <br><br>
@@ -21,13 +21,12 @@ If you want to be open or receptive to new ways of thinking, to invent new ways 
 And once you truly understand that and once you truly believe that, then you're free. And you can think anything."
 
 [The Future of Programming](https://vimeo.com/groups/96331/videos/71278954) by [Bret Victor](https://worrydream.com/)
-
+<br><br>
  
 >"play is free movement within a more rigid structure"
 
 [Rules of Play](https://en.wikipedia.org/wiki/Rules_of_Play) by [Katie Salen](https://www.katiesalen.me/) and [Eric Zimmerman](https://ericzimmerman.com/)
-
- 
+<br><br>
 
 >"[...] play : it creates order, *is* order. Into an imperfect world and into the confusion of life it brings a temporary, a limited perfection. Play demands order absolute and supreme. The least deviation from it "spoils the game", robs it of its character and makes it worthless. The profound affinity between play and order is perhaps the
 reason why play [...] seems to lie to such a large extent in the field of aesthetics. Play has a tendency to be beautiful. It may be that this aesthetic factor is identical with the impulse to create orderly form, which animates play in all its aspects."
@@ -37,7 +36,7 @@ Homo Ludens (p.10)
 >"The play-concept as such is of a higher order than is seriousness. For seriousness seeks to exclude play, whereas play can very well include seriousness.”
 
 Homo Ludens (p.45)
-
+<br><br>
 
 
 (*) = free to play
