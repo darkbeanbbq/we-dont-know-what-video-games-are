@@ -84,9 +84,10 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 
 
 **[Will the man get frog](https://marechalbanane.itch.io/will-the-man-get-frog)*** by [Marcel Banane](https://marechalbanane.games/)
+
 Passpartout : The Starving Artist
 
-**[Keep Talking and Nobody Explodes](https://keeptalkinggame.com/)** by []()
+**[Keep Talking and Nobody Explodes](https://keeptalkinggame.com/)** by [Steel Crate Games](https://steelcrategames.com/)
 
 **[Eliss](http://www.little--eyes.com/eliss)** and **[Faraway](http://www.playfaraway.com/)** by [Little Eyes (Steph Thirion)](http://www.little--eyes.com)
 
@@ -117,17 +118,20 @@ Passpartout : The Starving Artist
 **[Chasing Birds](https://davidczar.itch.io/chasing-birds)*** by [David Czarnowski](https://www.davidczar.com/)
 
 
-Pilgrims
-Untitled Goose Game
-140
-Freeways
+**[Pilgrims](https://amanita-design.net/games/pilgrims.html)** by [Amanita Design](https://amanita-design.net/)
+
+**[Untitled Goose Game](https://goose.game/)** by [House House](https://househouse.com/)
+
+**[140](https://www.carlsengames.com/games/140/)** by [Carlsen Games](https://www.carlsengames.com)
+
+**[Freeways](https://captaingames.itch.io/freeways)** by [Captain Games (Justin Smith)](https://captaingames.itch.io/)
 
 
 **[UMURANGI Generation](https://www.umurangigeneration.com/)** by Origame Digital
 
 **[Museum of Parallel Art](https://neverpants.itch.io/museum-of-parallel-art)*** by Neverpants ([DOM2D (Dominique Ferland)](https://dom2d.com/), [technobeanie (Pierre-Luc Poirier)](https://technobeanie.com/) and SeventySevian (Ian Girard)
 
-**[The Uncensored Library](https://www.uncensoredlibrary.com/)***
+**[The Uncensored Library](https://www.uncensoredlibrary.com/)*** by [Reporters Without Borders](https://rsf.org), [Blocksworks](https://www.blockworks.uk/), .monks and DDB Berlin
 
 
 **[Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris)*** by [Ian MacLarty](https://ianmaclarty.com/)
@@ -162,14 +166,16 @@ Freeways
 
 **[A Normal Lost Phone](https://anormallostphone.com/)** by [Accidental Queens](https://www.accidentalqueens.com/)
 
+**[Sword & Sworcery](http://www.swordandsworcery.com/)** by [SuperBrothers](https://superbrothershq.com/), [Capybara Games](https://www.capybaragames.com/) and [Jim Guthrie](https://jimguthrie.bandcamp.com/)
 
-Kentucky Route Zero
-https://canabalt.com/
+**[Kentucky Route Zero](https://kentuckyroutezero.com/)** by [cardboard computers](https://cardboard.computer/)
+
+**[Canabalt](https://canabalt.com/)** by [Adam Saltsman](https://adamatomic.com/)
 
 
 **[The PainStation](http://www.painstation.de/)** by [//////////fur////](https://www.fursr.com/)
 
-**[Keyboard Mandala](https://titouanm.com/keyboardmandala/)** by [Titouan Millet](https://titouanm.com/)
+**[Keyboard Mandala](https://titouanm.com/keyboardmandala/)** and [A Cosmic Forest](https://titouanmillet.itch.io/a-cosmic-forest) by [Titouan Millet](https://titouanm.com/)
 
 **[Flippaper](https://www.flippaper.org/)** by [Chienpo (Jérémie Cortial)](http://www.jercortial.com/)
 
@@ -187,78 +193,80 @@ https://canabalt.com/
 
 **[WE BECOME WHAT WE BEHOLD](https://ncase.itch.io/wbwwb)*** and **[The Evolution of Trust](https://ncase.me/trust/)*** by [Nicky Case](https://ncase.me/)
 
-[]() de []()
 
 
 ## Talks et essays
-[The Future of Programming](https://vimeo.com/groups/96331/videos/71278954) by [Bret Victor](https://worrydream.com/)
+**[The Future of Programming](https://vimeo.com/groups/96331/videos/71278954)** by [Bret Victor](https://worrydream.com/)
 
-[Videogames and the Spirit of Capitalism](https://www.molleindustria.org/blog/videogames-and-the-spirit-of-capitalism/) by [Molleindustria (Paolo Pedercini)](https://paolo.molleindustria.org/)
+**[Videogames and the Spirit of Capitalism](https://www.molleindustria.org/blog/videogames-and-the-spirit-of-capitalism/)** by [Molleindustria (Paolo Pedercini)](https://paolo.molleindustria.org/)
 
-[Up and Down the Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/) by [Bret Victor](https://worrydream.com/)
+**[Up and Down the Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/)** by [Bret Victor](https://worrydream.com/)
 
 
 ## Books
-[Homo Ludens](https://fr.wikipedia.org/wiki/Homo_ludens) by [Johan Huizinga](https://fr.wikipedia.org/wiki/Johan_Huizinga)
+**[Homo Ludens](https://fr.wikipedia.org/wiki/Homo_ludens)** by [Johan Huizinga](https://fr.wikipedia.org/wiki/Johan_Huizinga)
 
-[How to Do Things with Videogames](https://bogost.com/books/how_to_do_things_with_videogam_1/) by [Ian Bogost](https://bogost.com/)
+**[How to Do Things with Videogames](https://bogost.com/books/how_to_do_things_with_videogam_1/)** by [Ian Bogost](https://bogost.com/)
 
-[Rise of the Videogame Zinesters](http://triple-a-games.biz/books/videogame-zinesters/) by [Anna Anthropy](http://triple-a-games.biz)
+**[Rise of the Videogame Zinesters](http://triple-a-games.biz/books/videogame-zinesters/)** by [Anna Anthropy](http://triple-a-games.biz)
 
-[Rules of Play](https://en.wikipedia.org/wiki/Rules_of_Play) by [Katie Salen](https://www.katiesalen.me/) and [Eric Zimmerman](https://ericzimmerman.com/)
+**[Rules of Play](https://en.wikipedia.org/wiki/Rules_of_Play) by [Katie Salen](https://www.katiesalen.me/)** and [Eric Zimmerman](https://ericzimmerman.com/)
 
 ## Films
-[Indie Game The Movie](https://buy.indiegamethemovie.com/)
+**[Indie Game The Movie](https://buy.indiegamethemovie.com/)**
 
-[Super Game Jam](https://www.supergamejam.com/)
-
-[itch.io](https://itch.io)
+**[Super Game Jam](https://www.supergamejam.com/)**
 
 ## Events and festivals
-[Indie Games Fesetival](https://igf.com/)
+**[Indie Games Festival](https://igf.com/)**
 
-[A MAZE Berlin](https://amaze-berlin.de/)
+**[A MAZE Berlin](https://amaze-berlin.de/)**
 
-[IndieCade Europe](https://indiecade-europe.eu/)
+**[IndieCade Europe](https://indiecade-europe.eu/)**
 
-[alt.ctrl.GDC](https://gdconf.com/alt-ctrl-gdc)
+**[alt.ctrl.GDC](https://gdconf.com/alt-ctrl-gdc)**
 
-[GDC Vault](https://gdcvault.com/free)
+**[GDC Vault](https://gdcvault.com/free)**
 
-[ENIAROF](https://www.eniarof.com/) by [Antoning Founreau](https://www.antoninfourneau.com/) and [Douglas Edric Stanley](https://abstractmachine.net/)
+**[ENIAROF](https://www.eniarof.com/)** by [Antoning Founreau](https://www.antoninfourneau.com/) and [Douglas Edric Stanley](https://abstractmachine.net/)
 
 ## Blogs and curation
-[OuJeViPo](https://oujevipo.fr/) and [Shake That Button](https://shakethatbutton.com/) by [Pierre Corbinais](https://pierrecorbinais.com/)
+**[OuJeViPo](https://oujevipo.fr/)** and **[Shake That Button](https://shakethatbutton.com/)** by [Pierre Corbinais](https://pierrecorbinais.com/)
 
-[Computer Grrrls](https://chloedesmoineaux.surf/Computer-Grrrls) by [Chloé Desmoineaux](https://chloedesmoineaux.surf)
+**[Computer Grrrls](https://chloedesmoineaux.surf/Computer-Grrrls)** by [Chloé Desmoineaux](https://chloedesmoineaux.surf)
 
-[S'il vous Play](https://chloedesmoineaux.surf/S-il-vous-play) by [Chloé Desmoineaux](https://chloedesmoineaux.surf) and [Pierre Corbinais](https://pierrecorbinais.com/)
+**[S'il vous Play](https://chloedesmoineaux.surf/S-il-vous-play)** by [Chloé Desmoineaux](https://chloedesmoineaux.surf) and [Pierre Corbinais](https://pierrecorbinais.com/)
 
-[Venus Patrol](https://venuspatrol.com/)
+**[Venus Patrol](https://venuspatrol.com/)**
 
-[Joue Le Jeu](https://www.gaite-lyrique.net/evenement/joue-le-jeu) by [Lynn Hughes](https://en.wikipedia.org/wiki/Lynn_Hughes_(artist)), [Heather Kelley](https://en.wikipedia.org/wiki/Heather_Kelley) and [Cindy Poremba](https://shinyspinning.com/)
+**[Joue Le Jeu](https://www.gaite-lyrique.net/evenement/joue-le-jeu)** by [Lynn Hughes](https://en.wikipedia.org/wiki/Lynn_Hughes_(artist)), [Heather Kelley](https://en.wikipedia.org/wiki/Heather_Kelley) and [Cindy Poremba](https://shinyspinning.com/)
 
-[Explorable Explanations](https://explorabl.es/)
+**[Explorable Explanations](https://explorabl.es/)**
 
-[Gamelier](https://www.youtube.com/@gamelier399)
+## Independant games marketplace
+**[itch.io](https://itch.io)**
 
-[Random Bazar](https://random-bazar.fr/)
+## People and collectives
 
-[Cookie Collective](https://www.cookie.paris/)
+**[Gamelier](https://www.youtube.com/@gamelier399)**
 
-[Sokpop Collective](https://www.sokpop.co/)
+**[Random Bazar](https://random-bazar.fr/)**
 
-Babycastles https://www.babycastles.com/
+**[Cookie Collective](https://www.cookie.paris/)**
 
-[Neauoire (Devine Lu Linvega](https://wiki.xxiivv.com/site/games.html)
+**[Sokpop Collective](https://www.sokpop.co/)**
 
-[Heather Kelley](https://en.wikipedia.org/wiki/Heather_Kelley)
+**[Babycastles](https://www.babycastles.com/)**
+
+**[Neauoire (Devine Lu Linvega](https://wiki.xxiivv.com/site/games.html)**
+
+**[Heather Kelley](https://en.wikipedia.org/wiki/Heather_Kelley)**
 
 
-# Free and open-source tools to make video games
-[Godot](https://godotengine.org/)
+## Free and open-source tools to make video games
+**[Godot](https://godotengine.org/)**
 
-[Twine](https://twinery.org/)
+**[Twine](https://twinery.org/)**
 
-[Processing](https://processing.org/)
+**[Processing](https://processing.org/)**
 
