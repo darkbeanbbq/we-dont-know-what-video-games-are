@@ -63,7 +63,9 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 **[Balloon paperApp](https://vimeo.com/35751220)** by [Volumique](https://volumique.com)
 
 
-**[Hurt Me Plenty](https://radiatoryang.itch.io/hurt-me-plenty)***, **[Stick Shift](https://radiatoryang.itch.io/stick-shift)***, **[Cobra Club](https://radiatoryang.itch.io/cobraclub)*** and **[Rinse and Repeat](https://radiatoryang.itch.io/rinseandrepeat)*** by [Robert Yang](https://debacle.us/)
+**[Hurt Me Plenty](https://radiatoryang.itch.io/hurt-me-plenty)** *,
+**[Stick Shift](https://radiatoryang.itch.io/stick-shift)** *,
+**[Cobra Club](https://radiatoryang.itch.io/cobraclub)** * and **[Rinse and Repeat](https://radiatoryang.itch.io/rinseandrepeat)** * by [Robert Yang](https://debacle.us/)
 
 
 **[Dear Esther](https://www.thechineseroom.co.uk/games/dear-esther)** by [The Chinese Room](https://www.thechineseroom.co.uk/)
