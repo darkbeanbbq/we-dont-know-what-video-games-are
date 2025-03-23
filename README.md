@@ -1,7 +1,7 @@
 # We don't know what video games are
 
 A list of independent, alternative, experimental, art or simply interesting video games that deconstructed my idea of what video games are and what video games can be. Also some quotes and links.
-A curated non-exhaustive and clearly subjective list by Alexandre Lejeune for the *Digital Bricolage* Workshop at l'[ENSAAMA](https://ensaama.net) in 2025.
+A curated non-exhaustive and clearly subjective list by [Alexandre Lejeune](https://darkbean.io/) for the *Digital Bricolage* Workshop at l'[ENSAAMA](https://ensaama.net) in 2025.
 
 ---
 
@@ -62,19 +62,15 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 
 **[Balloon paperApp](https://vimeo.com/35751220)** by [Volumique](https://volumique.com)
 
-
 **[Hurt Me Plenty](https://radiatoryang.itch.io/hurt-me-plenty)** *,
 **[Stick Shift](https://radiatoryang.itch.io/stick-shift)** *,
 **[Cobra Club](https://radiatoryang.itch.io/cobraclub)** * and **[Rinse and Repeat](https://radiatoryang.itch.io/rinseandrepeat)** * by [Robert Yang](https://debacle.us/)
-
 
 **[Dear Esther](https://www.thechineseroom.co.uk/games/dear-esther)** by [The Chinese Room](https://www.thechineseroom.co.uk/)
 
 **[The Beginner's Guide](https://thebeginnersgui.de/)** by [Davey Wreden](https://everythingunlimitedltd.com/)
 
-
 **[Bientôt l'Été](https://tale-of-tales.com/bientotlete)**, **[Luxuria Superbia](https://luxuria-superbia.com/)** and **[Sunset](https://taleoftales.itch.io/sunset)** by [Tale of Tales](https://www.tale-of-tales.com) (Auriea Harvey and Michaël Samyn)
-
 
 **[and i made sure to hold your head sideways](https://q_dork.itch.io/and-i-made-sure-to-hold-your-head-sideways)** * and **[Consume Me](https://q_dork.itch.io/consume-me)** by [q_dork (jenny jiao hsia)](https://qdork.com/) and [bad_tetris (Ap Thomson)](http://apthomson.com/)
 
@@ -84,35 +80,73 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 
 ---
 
+**[Minecraft](https://fr.wikipedia.org/wiki/Minecraft#D%C3%A9veloppement)** by Markus Persson and Mojang
 
-**[Will the man get frog](https://marechalbanane.itch.io/will-the-man-get-frog)** * by [Marcel Banane](https://marechalbanane.games/)
+**[Braid](http://braid-game.com/)** and **[The Witness](http://the-witness.net/)** by [Jonathan Blow](http://number-none.com/blow/)
 
-Passpartout : The Starving Artist
-
-**[Keep Talking and Nobody Explodes](https://keeptalkinggame.com/)** by [Steel Crate Games](https://steelcrategames.com/)
+**[FEZ](https://fezgame.com/)** by Polytron
 
 **[Eliss](http://www.little--eyes.com/eliss)** and **[Faraway](http://www.playfaraway.com/)** by [Little Eyes (Steph Thirion)](http://www.little--eyes.com)
 
+**[Sword & Sworcery](http://www.swordandsworcery.com/)** by [SuperBrothers](https://superbrothershq.com/), [Capybara Games](https://www.capybaragames.com/) and [Jim Guthrie](https://jimguthrie.bandcamp.com/)
 
 **[Dwarf Fortress](https://www.bay12games.com/dwarves/)** * by [Bay 12 Games (Tarn Adams and Zach Adams)](https://www.bay12games.com/)
 
-**[Minecraft](https://fr.wikipedia.org/wiki/Minecraft#D%C3%A9veloppement)** by Markus Persson and Mojang
+**[QWOP](https://www.foddy.net/Athletics.html)** * by [Bennett Foddy](https://en.wikipedia.org/wiki/Bennett_Foddy)
+
+**[JS Joust](http://www.jsjoust.com/)** by Douglas Wilson and [Die Gute Fabrik](https://gutefabrik.com/)
+
+**[Canabalt](https://canabalt.com/)** by [Adam Saltsman](https://adamatomic.com/)
+
+
+
+
+
 
 **[Disunion (Guillotine Simulator)](https://www.youtube.com/watch?v=N8zkbl6mKXE)** de [André Berlemont](https://andreberlemont.com/), Erkki Turmmal and [Morten Brunbjerg](https://www.mortenbrunbjerg.dk/)
+
+**[Limbo](https://playdead.com/games/limbo/)** by [Playdead](https://playdead.com/company/)
+
+**[140](https://www.carlsengames.com/games/140/)** by [Carlsen Games](https://www.carlsengames.com)
+
+
+
+
+
+
+
+
+
+**[Will the man get frog](https://marechalbanane.itch.io/will-the-man-get-frog)** * by [Marcel Banane](https://marechalbanane.games/)
+
+**[Passpartout : The Starving Artist](https://flamebait.itch.io/passpartout-the-starving-artist)** ([prototype](https://flamebait.itch.io/passpartout) *) by [Flamebait Games](https://www.flamebaitgames.com)
+
+**[Keep Talking and Nobody Explodes](https://keeptalkinggame.com/)** by [Steel Crate Games](https://steelcrategames.com/)
+
+
+
+
+
+
+
+
+
+
+
 
 
 **[Realistic Kissing Simulator](https://jimmylands.com/experiments/kissing/)** * by [James Andrews](https://jimmylands.com/) and [Loren Schmidt](https://lorenschmidt.itch.io/)
 
 
 
-**[Limbo](https://playdead.com/games/limbo/)** by [Playdead](https://playdead.com/company/)
+
 
 **[Hohokum](https://store.steampowered.com/app/1210550/Hohokum/)** by Ricky Haggett and Richard Hogg
 
 
-**[QWOP](https://www.foddy.net/Athletics.html)** * by [Bennett Foddy](https://en.wikipedia.org/wiki/Bennett_Foddy)
 
-**[Flower](https://thatgamecompany.com/flower/)** and **[Journey](https://thatgamecompany.com/journey/)** by [thatgamescompany](https://thatgamecompany.com/)
+
+
 
 **[Gone Home](https://gonehome.com/)** by [Fullbright](https://fullbrig.ht/)
 
@@ -124,7 +158,7 @@ Passpartout : The Starving Artist
 
 **[Untitled Goose Game](https://goose.game/)** by [House House](https://househouse.com/)
 
-**[140](https://www.carlsengames.com/games/140/)** by [Carlsen Games](https://www.carlsengames.com)
+
 
 **[Freeways](https://captaingames.itch.io/freeways)** by [Captain Games (Justin Smith)](https://captaingames.itch.io/)
 
@@ -153,11 +187,11 @@ Passpartout : The Starving Artist
 
 **[Manifold Garden](https://manifold.garden/)** by [William Chyr](https://williamchyr.com/)
 
-**[Braid](http://braid-game.com/)** and **[The Witness](http://the-witness.net/)** by [Jonathan Blow](http://number-none.com/blow/)
+
 
 **[Baby is You](https://www.hempuli.com/baba/)** ([jam build](https://hempuli.itch.io/baba-is-you) *) by [Hempuli (Arvi Teikari)](https://hempuli.com) 
 
-**[FEZ](https://fezgame.com/)** by Polytron
+
 
 
 **[Curtain](https://dreamfeel.itch.io/curtain)** by [Dreamfeel](https://dreamfeel.ie/)
@@ -168,11 +202,11 @@ Passpartout : The Starving Artist
 
 **[A Normal Lost Phone](https://anormallostphone.com/)** by [Accidental Queens](https://www.accidentalqueens.com/)
 
-**[Sword & Sworcery](http://www.swordandsworcery.com/)** by [SuperBrothers](https://superbrothershq.com/), [Capybara Games](https://www.capybaragames.com/) and [Jim Guthrie](https://jimguthrie.bandcamp.com/)
+
 
 **[Kentucky Route Zero](https://kentuckyroutezero.com/)** by [cardboard computers](https://cardboard.computer/)
 
-**[Canabalt](https://canabalt.com/)** by [Adam Saltsman](https://adamatomic.com/)
+
 
 
 **[The PainStation](http://www.painstation.de/)** by [//////////fur////](https://www.fursr.com/)
@@ -183,7 +217,7 @@ Passpartout : The Starving Artist
 
 **[Line Wobbler](https://www.aipanic.com/projects/wobbler)** by [Robin Baumgarten](https://www.aipanic.com/)
 
-**[JS Joust](http://www.jsjoust.com/)** by Douglas Wilson and [Die Gute Fabrik](https://gutefabrik.com/)
+
 
 **[ROFLpillar](https://luckyframe.co.uk/works/roflpillar/)** by [Lucky Frames](https://luckyframe.co.uk/)
 
