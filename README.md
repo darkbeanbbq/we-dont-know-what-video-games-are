@@ -52,6 +52,8 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 
 **[Vesper 5](https://mightyvision.blogspot.com/2012/08/vesper5.html)** * by [Michael Brough](http://mightyvision.blogspot.com/)
 
+**[JS Joust](http://www.jsjoust.com/)** by Douglas Wilson and [Die Gute Fabrik](https://gutefabrik.com/)
+
 **[Fingle](https://www.youtube.com/watch?v=ff0fku1r-gU)**, **[Friendstrap](https://www.youtube.com/watch?v=6JfH_xgsfM8)**, **[Bounden](https://www.youtube.com/watch?v=Gete61IxkPo)**, **[Secret Shuffle](https://secretshuffle.com/)** and **[Hidden Folks](https://hiddenfolks.com/)** by [Adriaan De Jongh](https://adriaan.games/)
 
 **[Dys4ia](https://w.itch.io/dys4ia)** * ([browser version](https://freegames.org/dys4ia/)*) by [Anna Anthropy](http://triple-a-games.biz/) 
@@ -94,14 +96,9 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 
 **[QWOP](https://www.foddy.net/Athletics.html)** * by [Bennett Foddy](https://en.wikipedia.org/wiki/Bennett_Foddy)
 
-**[JS Joust](http://www.jsjoust.com/)** by Douglas Wilson and [Die Gute Fabrik](https://gutefabrik.com/)
-
 **[Canabalt](https://canabalt.com/)** by [Adam Saltsman](https://adamatomic.com/)
 
-
-
-
-
+**[Hohokum](https://store.steampowered.com/app/1210550/Hohokum/)** by Ricky Haggett and Richard Hogg
 
 **[Disunion (Guillotine Simulator)](https://www.youtube.com/watch?v=N8zkbl6mKXE)** de [André Berlemont](https://andreberlemont.com/), Erkki Turmmal and [Morten Brunbjerg](https://www.mortenbrunbjerg.dk/)
 
@@ -109,66 +106,23 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 
 **[140](https://www.carlsengames.com/games/140/)** by [Carlsen Games](https://www.carlsengames.com)
 
+**[Gone Home](https://gonehome.com/)** by [Fullbright](https://fullbrig.ht/)
 
-
-
-
-
-
-
-
-**[Will the man get frog](https://marechalbanane.itch.io/will-the-man-get-frog)** * by [Marcel Banane](https://marechalbanane.games/)
-
-**[Passpartout : The Starving Artist](https://flamebait.itch.io/passpartout-the-starving-artist)** ([prototype](https://flamebait.itch.io/passpartout) *) by [Flamebait Games](https://www.flamebaitgames.com)
-
-**[Keep Talking and Nobody Explodes](https://keeptalkinggame.com/)** by [Steel Crate Games](https://steelcrategames.com/)
-
-
-
-
-
-
-
-
-
-
-
-
+**[Pixel Fireplace](https://hammertail.itch.io/pixel-fireplace)** by [Ted Martens](https://tedmartens.com/)
 
 **[Realistic Kissing Simulator](https://jimmylands.com/experiments/kissing/)** * by [James Andrews](https://jimmylands.com/) and [Loren Schmidt](https://lorenschmidt.itch.io/)
 
+**[Keyboard Mandala](https://titouanm.com/keyboardmandala/)** and [A Cosmic Forest](https://titouanmillet.itch.io/a-cosmic-forest) by [Titouan Millet](https://titouanm.com/)
 
+**[The PainStation](http://www.painstation.de/)** by [//////////fur////](https://www.fursr.com/)
 
+**[ROFLpillar](https://luckyframe.co.uk/works/roflpillar/)** by [Lucky Frames](https://luckyframe.co.uk/)
 
+**[Choosatron](https://jerrytron.com/projects/choosatron/)** by [Jerry Belich](https://jerrytron.com/)
 
-**[Hohokum](https://store.steampowered.com/app/1210550/Hohokum/)** by Ricky Haggett and Richard Hogg
+**[Kentucky Route Zero](https://kentuckyroutezero.com/)** by [cardboard computers](https://cardboard.computer/)
 
-
-
-
-
-
-**[Gone Home](https://gonehome.com/)** by [Fullbright](https://fullbrig.ht/)
-
-
-**[Chasing Birds](https://davidczar.itch.io/chasing-birds)** * by [David Czarnowski](https://www.davidczar.com/)
-
-
-**[Pilgrims](https://amanita-design.net/games/pilgrims.html)** by [Amanita Design](https://amanita-design.net/)
-
-**[Untitled Goose Game](https://goose.game/)** by [House House](https://househouse.com/)
-
-
-
-**[Freeways](https://captaingames.itch.io/freeways)** by [Captain Games (Justin Smith)](https://captaingames.itch.io/)
-
-
-**[UMURANGI Generation](https://www.umurangigeneration.com/)** by Origame Digital
-
-**[Museum of Parallel Art](https://neverpants.itch.io/museum-of-parallel-art)** * by Neverpants ([DOM2D (Dominique Ferland)](https://dom2d.com/), [technobeanie (Pierre-Luc Poirier)](https://technobeanie.com/) and SeventySevian (Ian Girard)
-
-**[The Uncensored Library](https://www.uncensoredlibrary.com/)** * by [Reporters Without Borders](https://rsf.org), [Blocksworks](https://www.blockworks.uk/), .monks and DDB Berlin
-
+**[Mountain](https://davidoreilly.itch.io/mountain)** by [David O'Reilly](https://www.davidoreilly.com/)
 
 **[Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris)** * by [Ian MacLarty](https://ianmaclarty.com/)
 
@@ -178,50 +132,43 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 
 **[Plug & Play](https://plugplay.ch/)** and **[Kids](https://playkids.ch/)** by [Michael Frei](https://michaelfrei.io/) and [Mario von Rickenbach](https://mariov.ch/)
 
-**[Mountain](https://davidoreilly.itch.io/mountain)** by [David O'Reilly](https://www.davidoreilly.com/)
-
-**[Pixel Fireplace](https://hammertail.itch.io/pixel-fireplace)** by [Ted Martens](https://tedmartens.com/)
-
-
-**[Memories of a Broken Dimension](https://xra.itch.io/memory-of-a-broken-dimension)** * by [xra](https://xra.dev/)
-
-**[Manifold Garden](https://manifold.garden/)** by [William Chyr](https://williamchyr.com/)
-
-
-
-**[Baby is You](https://www.hempuli.com/baba/)** ([jam build](https://hempuli.itch.io/baba-is-you) *) by [Hempuli (Arvi Teikari)](https://hempuli.com) 
-
-
-
-
 **[Curtain](https://dreamfeel.itch.io/curtain)** by [Dreamfeel](https://dreamfeel.ie/)
 
 **[Depression Quest](http://www.depressionquest.com/)** * by [Zoe Quinn](https://unburntwitch.com)
 
 **[Lieve Oma](https://vltmn.itch.io/lieve-oma)** by [Florian Veltman](https://florian.games)
 
-**[A Normal Lost Phone](https://anormallostphone.com/)** by [Accidental Queens](https://www.accidentalqueens.com/)
-
-
-
-**[Kentucky Route Zero](https://kentuckyroutezero.com/)** by [cardboard computers](https://cardboard.computer/)
-
-
-
-
-**[The PainStation](http://www.painstation.de/)** by [//////////fur////](https://www.fursr.com/)
-
-**[Keyboard Mandala](https://titouanm.com/keyboardmandala/)** and [A Cosmic Forest](https://titouanmillet.itch.io/a-cosmic-forest) by [Titouan Millet](https://titouanm.com/)
+**[Memories of a Broken Dimension](https://xra.itch.io/memory-of-a-broken-dimension)** * by [xra](https://xra.dev/)
 
 **[Flippaper](https://www.flippaper.org/)** by [Chienpo (Jérémie Cortial)](http://www.jercortial.com/)
 
 **[Line Wobbler](https://www.aipanic.com/projects/wobbler)** by [Robin Baumgarten](https://www.aipanic.com/)
 
+**[Manifold Garden](https://manifold.garden/)** by [William Chyr](https://williamchyr.com/)
 
+**[Baby is You](https://www.hempuli.com/baba/)** ([jam build](https://hempuli.itch.io/baba-is-you) *) by [Hempuli (Arvi Teikari)](https://hempuli.com) 
 
-**[ROFLpillar](https://luckyframe.co.uk/works/roflpillar/)** by [Lucky Frames](https://luckyframe.co.uk/)
+**[A Normal Lost Phone](https://anormallostphone.com/)** by [Accidental Queens](https://www.accidentalqueens.com/)
 
-**[Choosatron](https://choosatron.github.io/)**
+**[Keep Talking and Nobody Explodes](https://keeptalkinggame.com/)** by [Steel Crate Games](https://steelcrategames.com/)
+
+**[The Uncensored Library](https://www.uncensoredlibrary.com/)** * by [Reporters Without Borders](https://rsf.org), [Blocksworks](https://www.blockworks.uk/), .monks and DDB Berlin
+
+**[Chasing Birds](https://davidczar.itch.io/chasing-birds)** * by [David Czarnowski](https://www.davidczar.com/)
+
+**[Freeways](https://captaingames.itch.io/freeways)** by [Captain Games (Justin Smith)](https://captaingames.itch.io/)
+
+**[UMURANGI Generation](https://www.umurangigeneration.com/)** by Origame Digital
+
+**[Museum of Parallel Art](https://neverpants.itch.io/museum-of-parallel-art)** * by Neverpants ([DOM2D (Dominique Ferland)](https://dom2d.com/), [technobeanie (Pierre-Luc Poirier)](https://technobeanie.com/) and SeventySevian (Ian Girard)
+
+**[Pilgrims](https://amanita-design.net/games/pilgrims.html)** by [Amanita Design](https://amanita-design.net/)
+
+**[Untitled Goose Game](https://goose.game/)** by [House House](https://househouse.com/)
+
+**[Will the man get frog](https://marechalbanane.itch.io/will-the-man-get-frog)** * by [Marcel Banane](https://marechalbanane.games/)
+
+**[Passpartout : The Starving Artist](https://flamebait.itch.io/passpartout-the-starving-artist)** ([prototype](https://flamebait.itch.io/passpartout) *) by [Flamebait Games](https://www.flamebaitgames.com)
 
 **[A Slower Speed of Light](https://gamelab.mit.edu/games/a-slower-speed-of-light/)** * by [MIT Game Lab](https://gamelab.mit.edu/)
 
@@ -262,8 +209,6 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 
 **[alt.ctrl.GDC](https://gdconf.com/alt-ctrl-gdc)**
 
-**[GDC Vault](https://gdcvault.com/free)**
-
 **[ENIAROF](https://www.eniarof.com/)** by [Antoning Founreau](https://www.antoninfourneau.com/) and [Douglas Edric Stanley](https://abstractmachine.net/)
 
 ## Blogs and curation
@@ -282,19 +227,25 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 ## Independant games marketplace
 **[itch.io](https://itch.io)**
 
-## People and collectives
+## Videos of talks about games
+
+**[GDC Vault](https://gdcvault.com/free)**
 
 **[Gamelier](https://www.youtube.com/@gamelier399)**
+
+## People and collectives
 
 **[Random Bazar](https://random-bazar.fr/)**
 
 **[Cookie Collective](https://www.cookie.paris/)**
 
+**[One Life Remains](http://www.oneliferemains.com/)**
+
 **[Sokpop Collective](https://www.sokpop.co/)**
 
 **[Babycastles](https://www.babycastles.com/)**
 
-**[Neauoire (Devine Lu Linvega](https://wiki.xxiivv.com/site/games.html)**
+**[Neauoire (Devine Lu Linvega)](https://wiki.xxiivv.com/site/games.html)**
 
 **[Heather Kelley](https://en.wikipedia.org/wiki/Heather_Kelley)**
 
@@ -306,3 +257,14 @@ reason why play [...] seems to lie to such a large extent in the field of aesthe
 
 **[Processing](https://processing.org/)**
 
+**[Blender](https://www.blender.org/)**
+
+**[Krita](https://krita.org/fr/)**
+
+**[Audacity](https://www.audacityteam.org/)**
+
+## Godot ressources
+
+[Godot documentation](https://docs.godotengine.org/en/stable/)
+
+[Kenney.nl](https://kenney.nl/)
